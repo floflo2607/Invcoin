@@ -13,7 +13,7 @@ Translate by <a href="https://www.linkedin.com/in/theosenez" title="Théo SENEZ"
 <b><u>Fonctionnalités du code : </u></b>
 <ul>
 <li> détection de la présence d'un astronaute, grâce à l'humidité.
-<li> détection du pays survolé.
+<li> détection du pays survolé et affichage du drapeau.
 <li> animations arc-en-ciel.<br>
 <li> animations avec l'heure du pays survolé ou UTC si au dessus d'un océan.
 </ul>
