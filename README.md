@@ -10,7 +10,7 @@ Translate by <a href="https://www.linkedin.com/in/theosenez" title="Théo SENEZ"
 <b>Nom de l'équipe:</b> GreenOcean <br> 
 <b>Nom du Lycée:</b> Chabrillan<br> 
 
-<u>Fonctionnalités du code : </u>
+<b><u>Fonctionnalités du code : </u></b>
 <ul>
 <li> détection de la présence d'un astronaute, grâce à l'humidité.
 <li> détection du pays survolé.
