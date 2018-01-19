@@ -19,7 +19,7 @@ Translate by <a href="https://www.linkedin.com/in/theosenez" title="Théo SENEZ"
 </ul>
 <hr>
 <p>
-*******<b><u> PyEphem</u></b> *******
+  *******<u><b> PyEphem</b></u> *******
 
 Le code nécessite l'installation de la librairie PyEphem  : <br>
 https://pypi.python.org/pypi/pyephem <br>
