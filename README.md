@@ -19,7 +19,7 @@ Translate by <a href="https://www.linkedin.com/in/theosenez" title="Théo SENEZ"
 </ul>
 <hr>
 <p>
-  *******<u><b> PyEphem</b></u> *******
+*******<b><u> PyEphem</u></b> *******
 
 Le code nécessite l'installation de la librairie PyEphem  : <br>
 https://pypi.python.org/pypi/pyephem <br>
@@ -34,7 +34,7 @@ les fichiers suivants doivent se retrouver dans le même dossier que le code pri
 </ul></p>
 <hr>
 <p>
-*******</b></u> Fonctionnement du code principal ####.py</u></b> *******
+*******<b><u> Fonctionnement du code principal ####.py</u></b> *******
 <ul>
 <li> le code fonctionne à merveille
 <li> Le fichier de données #####.### se trouve dans le dossier courant à l'issue de l'exécution du programme.
