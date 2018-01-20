@@ -41,5 +41,6 @@ les fichiers suivants doivent se retrouver dans le même dossier que le code pri
 </ul></p>
 <pre><code>  ##################  </code></pre>
 
-<img src = "https://img.shields.io/badge/python-2.7-blue.svg"> <img src = "https://img.shields.io/badge/PyEphem-ok-green.svg">
+<img src = "https://img.shields.io/badge/python-2.7-blue.svg"> 
+<img src = "https://img.shields.io/badge/PyEphem-ok-green.svg">
 <img src = "https://img.shields.io/github/status/s/pulls/badges/shields/1110.svg">
