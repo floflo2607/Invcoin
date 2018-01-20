@@ -9,8 +9,7 @@ Translate by <a href="https://www.linkedin.com/in/theosenez" title="Théo SENEZ"
 
 <b>Nom de l'équipe:</b> GreenOcean <br> 
 <b>Nom du Lycée:</b> Chabrillan<br> 
-<hr>
-<p>
+
 <b><u>Fonctionnalités du code : </u></b>
 <ul>
 <li> détection de la présence d'un astronaute, grâce à l'humidité.
@@ -18,8 +17,6 @@ Translate by <a href="https://www.linkedin.com/in/theosenez" title="Théo SENEZ"
 <li> animations arc-en-ciel.<br>
 <li> animations avec l'heure du pays survolé ou UTC si au dessus d'un océan.
 </ul>
-</p>
-</hr>
 <hr>
 <p>
 *******<b><u> PyEphem</u></b> *******
@@ -44,4 +41,5 @@ les fichiers suivants doivent se retrouver dans le même dossier que le code pri
 </ul></p>
 <pre><code>  ##################  </code></pre>
 
-
+<img src = "https://img.shields.io/badge/python-2.7-blue.svg"> <img src = "https://img.shields.io/badge/PyEphem-ok-green.svg">
+<img src = "https://img.shields.io/github/status/s/pulls/badges/shields/1110.svg">
